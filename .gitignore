@@ -3,3 +3,4 @@ include
 lib
 share
 __pycache__
+.history

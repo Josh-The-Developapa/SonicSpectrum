@@ -2,8 +2,8 @@ import librosa
 import numpy as np
 from numpy.fft import fft
 import matplotlib.pyplot as plt
-import os
-import IPython.display as ipd
+# import os
+# import IPython.display as ipd
 import pandas as pd
 
 def load_and_process_audio(file_path):

@@ -24,9 +24,6 @@ In this expression:
 
 Additionally, $e^{i\frac{2\pi}{n}}$ corresponds to a primitive $n$-th root of 1. This term is crucial in the computation of the DFT, as it defines the angular frequency associated with each frequency component.
 
-
-## Getting Started
-
 To get started with Project SonicSpectrum, follow these steps:
 
 1. Clone this repository to your local machine.
